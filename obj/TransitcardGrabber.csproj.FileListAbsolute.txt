@@ -18,3 +18,5 @@ D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML
 D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20220110H\PLUGIN_TransitcardGrabber_[Sources]_20200624H\bin\Debug\TransitcardGrabber.exe
 D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20220110H\PLUGIN_TransitcardGrabber_[Sources]_20200624H\bin\Debug\TransitcardGrabber.pdb
 D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20220110H\PLUGIN_TransitcardGrabber_[Sources]_20200624H\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20220113H\PLUGIN_TransitcardGrabber_[Sources]_20220113H\obj\Debug\TransitcardGrabber.exe
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20220113H\PLUGIN_TransitcardGrabber_[Sources]_20220113H\obj\Debug\TransitcardGrabber.pdb
